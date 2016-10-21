@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyLib", "MyLib\MyLib.vcxproj", "{31294632-6708-40C5-8056-0F42DECB5330}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{8E2380F4-3426-4477-BB3C-F1533F021397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{31294632-6708-40C5-8056-0F42DECB5330}.Release|x64.Build.0 = Release|x64
 		{31294632-6708-40C5-8056-0F42DECB5330}.Release|x86.ActiveCfg = Release|Win32
 		{31294632-6708-40C5-8056-0F42DECB5330}.Release|x86.Build.0 = Release|Win32
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Debug|x64.ActiveCfg = Debug|x64
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Debug|x64.Build.0 = Debug|x64
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Debug|x86.Build.0 = Debug|Win32
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Release|x64.ActiveCfg = Release|x64
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Release|x64.Build.0 = Release|x64
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Release|x86.ActiveCfg = Release|Win32
+		{8E2380F4-3426-4477-BB3C-F1533F021397}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
